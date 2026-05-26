@@ -110,7 +110,7 @@ Terraform Labs brings you tutorials that help you get hands-on experience using 
   - Additional features of TFE
   - Integration of TFE with Github
   - Creating organisation
-  - Configuring backends
+  - Configuring backend
 
 
 
